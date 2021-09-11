@@ -27,8 +27,14 @@ namespace mensajes_de_consola
           }
         }
         Console.WriteLine("Fin de las tablas de multiplicar");
+      }
 
 
+      /// <summary>
+      /// Con este metodo probamos el codigo
+      /// </summary>
+      public static void T03() {
+        Console.WriteLine("Vamos a probar este codigo");
       }
     }
 }
