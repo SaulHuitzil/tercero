@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/shj/mis_programas/mensajes_de_consola/mensajes_de_consola.csproj": {}
+    "/home/shj/mis_programas_de_CSharp/tercero/mensajes_de_consola.csproj": {}
   },
   "projects": {
-    "/home/shj/mis_programas/mensajes_de_consola/mensajes_de_consola.csproj": {
+    "/home/shj/mis_programas_de_CSharp/tercero/mensajes_de_consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/shj/mis_programas/mensajes_de_consola/mensajes_de_consola.csproj",
+        "projectUniqueName": "/home/shj/mis_programas_de_CSharp/tercero/mensajes_de_consola.csproj",
         "projectName": "mensajes_de_consola",
-        "projectPath": "/home/shj/mis_programas/mensajes_de_consola/mensajes_de_consola.csproj",
+        "projectPath": "/home/shj/mis_programas_de_CSharp/tercero/mensajes_de_consola.csproj",
         "packagesPath": "/home/shj/.nuget/packages/",
-        "outputPath": "/home/shj/mis_programas/mensajes_de_consola/obj/",
+        "outputPath": "/home/shj/mis_programas_de_CSharp/tercero/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/shj/.nuget/NuGet/NuGet.Config"
