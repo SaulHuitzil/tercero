@@ -15,6 +15,10 @@ namespace mensajes_de_consola
         Console.WriteLine($"El valor de la suma es {suma}");
       }
 
+      /// <summary>
+      /// This Method writes all possible multiplication
+      /// among 1 to 10
+      /// </summary>
       public static void T02() {
         Console.WriteLine("Estas son las tablas de multiplicar");
         for (int i = 1; i <= 10; i++) {
@@ -22,6 +26,7 @@ namespace mensajes_de_consola
             Console.WriteLine($"{i} X {j} = {i * j}");
           }
         }
+        Console.WriteLine("Fin de las tablas de multiplicar");
 
 
       }
